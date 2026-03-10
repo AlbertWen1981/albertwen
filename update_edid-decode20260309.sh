@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定義 v4l-utils 所在的目錄
-V4L_UTILS_DIR="/mnt/host/source/src/scripts /v4l-utils"
+V4L_UTILS_DIR="/mnt/host/source/src/scripts/v4l-utils"
 
 echo "start updating v4l-utils..."
 
